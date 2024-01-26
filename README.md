@@ -8,10 +8,6 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliaal390&show_icons=true&theme=synthwave" alt="Julia Alves GitHub stats">
-</p>
-<br>
-<p align="center">
   <b>🩷 Tecnologias estudadas 🩷</b>
 </p>
 <div style="display: inline_block"><br>
