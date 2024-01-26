@@ -1,17 +1,17 @@
-<p align="center">
+
   <b>🩷 Visite minhas redes sociais 🩷</b>
 </p>
-<p align="center">
+<p>
   <br>
   <a href="https://www.instagram.com/julia_al390/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/julia-alves-956507273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <br>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=juliaal390&show_icons=true&theme=synthwave" alt="Julia Alves GitHub stats">
 </p>
 <br>
-<p align="center">
+<p>
   <b>🩷 Tecnologias estudadas 🩷</b>
 </p>
 <div style="display: inline_block"><br>
