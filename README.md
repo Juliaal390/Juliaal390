@@ -1,5 +1,5 @@
 <p align="center" style="color: #ff00ff; font-weight: bold;">
-  🩷  <span style="color: #0000ff;">Visite as minhas outras redes sociais</span> 🩷
+  🩷  <span style="color: #0000ff;">Visite as minhas outras redes sociais</span> 
 </p>
 <p align="center">
   <a href="https://www.instagram.com/julia_al390/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center" style="color: #ff00ff; font-weight: bold;">
-  🩷  <span style="color: #0000ff;">Tecnologias estudadas</span> 🩷
+  🩷  <span style="color: #0000ff;">Tecnologias estudadas</span> 
 </p>
 <div align="center">
   <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
