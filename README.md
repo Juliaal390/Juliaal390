@@ -35,7 +35,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Meus+projetos+criados+(repositórios)+:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Meus+projetos+criados+:)](https://git.io/typing-svg)
 
 
 
