@@ -33,6 +33,8 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 50px; width: auto;">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meus+projetos+:)](https://git.io/typing-svg)
+
 
 
 
