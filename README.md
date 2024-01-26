@@ -28,7 +28,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 50px; width: auto;">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 50px; width: auto;">
 </p>
+<br>
 
+[![Julia Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliaal390&custom_title=Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
