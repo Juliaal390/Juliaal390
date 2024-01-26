@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🩷 Visite minhas redes sociais 🩷</b>
+  <b>🩷 Visite minhas redes sociais </b>
 </p>
 <p align="center">
   <br>
@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-  <b>🩷 Tecnologias estudadas 🩷</b>
+  <b>🩷 Tecnologias estudadas </b>
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
