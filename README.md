@@ -29,6 +29,8 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 50px; width: auto;">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Meus+projetos+:)](https://git.io/typing-svg)
+
 
 
 
