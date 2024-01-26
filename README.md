@@ -1,3 +1,4 @@
+
 <p align="center">
   <strong>💜 Visite as minhas outras redes sociais: </strong>
 </p>
@@ -6,6 +7,11 @@
   <a href="https://www.linkedin.com/in/julia-alves-956507273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <br>
+
+[![Julia Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliaal390&custom_title=Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juliaal390&show_icons=true&theme=radical" alt="Julia Alves GitHub stats">
 </p>
