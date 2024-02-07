@@ -33,10 +33,6 @@
 
 [![Julia Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliaal390&custom_title=Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Meus+projetos+criados+:)](https://git.io/typing-svg)
-
 
 
 
