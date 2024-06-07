@@ -1,7 +1,3 @@
-![eu](https://komarev.com/ghpvc/?username=Juliaal390)
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Minhas+redes+sociais+:)](https://git.io/typing-svg)
 
 <p align="center">
