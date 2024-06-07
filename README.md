@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Minhas+redes+sociais+:)](https://git.io/typing-svg)
 
 <p align="center">
@@ -7,10 +8,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliaal390&show_icons=true&theme=radical" alt="Julia Alves GitHub stats">
-</p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D360BC&center=true&vCenter=true&random=false&width=435&lines=Tecnologias+estudadas+:)](https://git.io/typing-svg)
@@ -26,11 +23,14 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 50px; width: auto;">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height: 50px; width: auto;"/>    
           
-</p>
+</p><br>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaal390&theme=tokyonight)
+  
+</div>
 
 <br>
-
-[![Julia Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliaal390&custom_title=Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
