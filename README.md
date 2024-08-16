@@ -24,10 +24,9 @@ Sou graduanda de Sistemas de Informação, e tenho contato com a área de tecnol
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaal390&theme=tokyonight)
-  
+
 </div>
 
-<br>
 
 
 
