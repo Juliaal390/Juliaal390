@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F739CD&vCenter=true&repeat=false&width=600&lines=Dev+Full+Stack+%7C+JavaScript+%7C+.NET+%7C+SQL+Server)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F25ADA&repeat=false&width=600&lines=Dev+FullStack+%7C+React+JS+%7C+.NET+%7C+SQL+Server)](https://git.io/typing-svg)
 ## Sobre Mim
 Sou graduanda de Sistemas de Informação, e tenho contato com a área de tecnologia desde 2021. Possuo experiência com suporte + manutenção de sites (WordPress), colaborei como desenvolvedora front-end em projetos voluntários, e atualmente sou estagiária em Desenvolvimento de Software, trabalhando com .NET e banco de dados (SQL Server).
 
