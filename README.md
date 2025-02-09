@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F25ADA&repeat=false&width=600&lines=Dev+FullStack+%7C+React+JS+%7C+.NET+%7C+SQL+Server)](https://git.io/typing-svg)
-## Redes Sociais
 <p align="center">
   <a href="https://www.instagram.com/julia_al390/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/julia-alves-956507273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
