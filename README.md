@@ -6,7 +6,7 @@
   <a href="https://www.behance.net/juliaal"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 </p>
 
-## Habilidades principais
+## Habilidades
 <p align="center">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="height: 50px; width: auto; margin-right: 202px;"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 50px; width: auto;"/>
