@@ -13,10 +13,6 @@
 - 📚 Bacharel em Sistemas de Informação (UEMG)
 - 📚 Técnico em Administração (CPET)
 - 📚 Profissionalizante em Programação (Evolute)
-- 💼 Ensino: **Bacharel em Sistemas de Informação (UEMG), técnico em Administração (CPET) e profissionalizante em Programação (Evolute)**
-- 💬 Me pergunte sobre: **[linguagens, frameworks, etc.]**
-- 📫 Como me encontrar: [seu e-mail] | [LinkedIn] | [portfólio]
-- ⚡ Curiosidade: [alguma coisa interessante sobre você]
 
 ---
 
