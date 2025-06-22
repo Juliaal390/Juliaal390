@@ -2,7 +2,7 @@
 <h1 align="center">Bem vindo(a) ao meu GitHub! 👋</h1>
 
 <p align="center">
-  Meu nome é Julia Alves, e sou Desenvolvedora de Software 💻<br/>
+  Olá! Meu nome é Julia Alves, e sou Desenvolvedora de Software 💻<br/>
   Apaixonada por tecnologia, café ☕ e resolver problemas com código
 </p>
 
