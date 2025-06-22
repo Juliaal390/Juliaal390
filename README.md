@@ -1,31 +1,57 @@
-## Redes sociais
+
+<h1 align="center">Bem vindo(a) ao meu GitHub! 👋</h1>
+
+<p align="center">
+  Meu nome é Julia Alves, e sou Desenvolvedora de Software 💻<br/>
+  Apaixonada por tecnologia, café ☕ e resolver problemas com código
+</p>
+
+---
+
+### 🚀 Ensino
+
+- 📚 Bacharel em Sistemas de Informação (UEMG)
+- 📚 Técnico em Administração (CPET)
+- 📚 Profissionalizante em Programação (Evolute)
+- 💼 Ensino: **Bacharel em Sistemas de Informação (UEMG), técnico em Administração (CPET) e profissionalizante em Programação (Evolute)**
+- 💬 Me pergunte sobre: **[linguagens, frameworks, etc.]**
+- 📫 Como me encontrar: [seu e-mail] | [LinkedIn] | [portfólio]
+- ⚡ Curiosidade: [alguma coisa interessante sobre você]
+
+---
+
+### 🧰 Tecnologias que uso
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="VB.NET" height="30" src="https://img.shields.io/badge/VB.NET-blueviolet?style=flat&logo=.net&logoColor=white" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="Knockout" height="30" src="https://knockoutjs.com/img/ko-logo.png" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</div>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
 
 <p align="center">
   <a href="https://www.instagram.com/julia_al390/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/julia-alves-956507273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/juliaal"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 </p>
-
-## Habilidades
-<p align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="height: 50px; width: auto; margin-right: 202px;"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 50px; width: auto;"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" style="height: 50px; width: auto;"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="height: 50px; width: auto;"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" style="height: 50px; width: auto;"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="height: 50px; width: auto;"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 50px; width: auto;"/> 
-          
-</p><br>
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaal390&theme=tokyonight)
-
-</div>
-
-
-
-
 
 
 
