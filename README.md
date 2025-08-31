@@ -2,8 +2,7 @@
 <h1 align="center">Bem vindo(a) ao meu GitHub! 👋</h1>
 
 <p align="center">
-  Olá! Meu nome é Julia Alves, e sou Desenvolvedora de Software 💻<br/>
-  Apaixonada por tecnologia, café ☕ e resolver problemas com código
+  Olá! Meu nome é Julia Alves, e sou Desenvolvedora FullStack 💻
 </p>
 
 ---
@@ -27,7 +26,14 @@
   <img align="center" alt="Knockout" height="30" src="https://knockoutjs.com/img/ko-logo.png" />
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+
+  <!-- adicionados -->
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 </div>
+
 
 
 ---
