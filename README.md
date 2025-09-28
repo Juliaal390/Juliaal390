@@ -2,7 +2,7 @@
 <h1 align="center">Bem vindo(a) ao meu GitHub! 👋</h1>
 
 <p align="center">
-  Olá! Meu nome é Julia Alves, e sou Desenvolvedora FullStack 💻
+  Olá! Meu nome é Julia Alves, e sou Desenvolvedora FullStack, </br> com foco em .NET e ReactJS 💻
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧰 Tecnologias que uso
+### 🧰 Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -26,13 +26,16 @@
   <img align="center" alt="Knockout" height="30" src="https://knockoutjs.com/img/ko-logo.png" />
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-
-  <!-- adicionados -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="WebSockets" height="30" src="https://img.shields.io/badge/WebSockets-0099FF?style=flat&logo=websocket&logoColor=white" />
+  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+  <img align="center" alt="PostgREST" height="30" src="https://img.shields.io/badge/PostgREST-2B6CB0?style=flat&logo=postgresql&logoColor=white" />
 </div>
+
 
 
 
