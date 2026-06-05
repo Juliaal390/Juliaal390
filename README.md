@@ -16,20 +16,6 @@
 ---
 </div>
 
-
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Juliaal390&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaal390&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌐 Onde me encontrar
 
 <p align="center">
